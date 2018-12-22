@@ -60,6 +60,6 @@
 > [个人博客](http://blog.csdn.net/blueamertj)
 >
 > *图片*:
-> 祝大家61快乐（插入图片）![61儿童](http://www.astiron.com/data/upload/image/201506/7748386409f3a7206cb4d7dfa24c78ce.jpg)
+> 祝大家61快乐（插入图片）![61儿童](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9Q3f6GatZeFDRh7aqz5daZxdc0CmYg5psAj4gMjcjpWoLC0y7w)
 >
 >
