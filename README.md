@@ -62,4 +62,31 @@
 > *图片*:
 > 祝大家61快乐（插入图片）![61儿童](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9Q3f6GatZeFDRh7aqz5daZxdc0CmYg5psAj4gMjcjpWoLC0y7w)
 >
+#### 1.2.4 参考模式
+> 参考形式的链接让你可以为链接定一个名称，之后你可以在文件的其他地方定义该链接的
 >
+>例如:
+>
+>我喜欢的网站有[百度][1]和[好123][2]or[GitHub][3].
+> 例如这样：*[1]: http://baidu.com/ "baidu"*
+>
+[1]: http://baidu.com/ "baidu"
+[2]: http://www.hao123.com/ "好123"
+[3]: https://github.com/ "GitHub"
+
+#### 1.2.5 表格
+>代码如下
+> 
+|姓名|所在地|产品|
+>
+| ----|-----|-----|
+>
+|雷军|北京 |小米手机|
+>
+|老罗|北京|锤子手机|
+>
+|任正非|深圳|华为手机|
+>
+>
+>
+
